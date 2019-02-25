@@ -1,4 +1,5 @@
 How to use this environment?
+
     1.Install gym
     
         NOTE:don't use pip install else you will be unable to change the environment. So please build from the source files.The fellowing commands shows how to do it:
